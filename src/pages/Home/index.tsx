@@ -13,7 +13,7 @@ import { RootState } from "../../app/store";
 import Searchbar from "@/components/ui/Searchbar";
 import Loader from "@/components/ui/Loader";
 import { Button } from "@/components/ui/Button";
-import SongCard from "@/components/ui/SongCard";
+import SongCard from "@/components/ui/Songcard";
 
 
 function Home() {

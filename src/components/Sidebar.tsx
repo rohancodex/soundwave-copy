@@ -2,7 +2,7 @@ import { useNavigate } from "react-router-dom";
 import { Menu, Power } from "lucide-react";
 import Cookies from "js-cookie";
 import Logo from "@/assets/Logo/Logo";
-import { Button } from "./ui/Button";
+import { Button } from "@/components/ui/Button";
 import {
   Sheet,
   SheetTrigger,
